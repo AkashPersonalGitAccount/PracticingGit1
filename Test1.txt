@@ -1,0 +1,1 @@
+Push the file to git repo whereas the repo is not created on github
