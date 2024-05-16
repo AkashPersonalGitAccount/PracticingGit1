@@ -1,0 +1,2 @@
+Creating new branch session
+Branch Name - branchSession1
